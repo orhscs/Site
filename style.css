@@ -11,11 +11,11 @@
   background-color: #333;
 }
 
-.navbox {
-  float: left;
+.navlink {
+  float: center;
 }
 
-.navlink {
+.navlink a {
   display: block;
   color: white;
   text-align: center;
@@ -24,6 +24,6 @@
 }
 
 /* Change the link color to #111 (black) on hover */
-.navlink:hover {
+.navlink a:hover {
   background-color: #111;
 }
