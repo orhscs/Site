@@ -13,7 +13,7 @@
 
 .navlink {
   float: right;
-  font-size:40px;
+  font-size:25px;
 }
 
 .navlink a {
@@ -27,4 +27,9 @@
 /* Change the link color to #111 (black) on hover */
 .navlink a:hover {
   background-color: #111;
+}
+
+.header {
+    position: fixed;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
 }
