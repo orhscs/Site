@@ -29,6 +29,10 @@
   background-color: #111;
 }
 
+.center {
+    text-align:"center"
+}
+
 .header {
     position: fixed;
     box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
