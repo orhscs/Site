@@ -1,6 +1,7 @@
 .title {
     text-align: center;
     font-size: 300%;
+    font-family: 'Roboto', sans-serif;
 }
 
 .navbar {
@@ -14,6 +15,7 @@
 .navlink {
   float: right;
   font-size:25px;
+  font-family: 'Roboto', sans-serif;
 }
 
 .navlink a {
