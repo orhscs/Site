@@ -30,6 +30,12 @@
   background-color: #d2d4d6;
 }
 
+.logo {
+  float: center;
+  width: 200%;
+  height: 200%;
+}
+
 .center {
     text-align:"center";
 }
