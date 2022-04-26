@@ -1,5 +1,5 @@
 .title {
-    position: absolute;
+    text-align: center;
     font-size: 300%;
     font-family: 'Roboto', sans-serif;
 }
@@ -33,6 +33,8 @@
 .logo {
   width: 50%;
   height: 50%;
+  position: absolute;
+  right: 500px;
 }
 
 .center {
