@@ -33,8 +33,7 @@
 .logo {
   width: 50%;
   height: 50%;
-  position: absolute;
-  right: 500px;
+  margin: auto;
 }
 
 .center {
